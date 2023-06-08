@@ -1,0 +1,1 @@
+folders for training, testing, and validation sets with their corresponding labels
