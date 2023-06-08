@@ -1,0 +1,1 @@
+corresponding label images for the test set. white is road, black is no-road
